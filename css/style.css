@@ -25,3 +25,12 @@ header {
   margin-bottom: 40px;
 }
 
+#side-bar {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 200px;
+  padding-left: 70px;
+}
+
+
